@@ -5,13 +5,7 @@ I like data science and cybersecurity, I want to specialize in cybersecurity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherAfonso&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=neon)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherAfonso&layout=compact&langs_count=20&hide=html,css,shell&theme=tokyonight" alt="Estadísticas de GitHub con C++" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherAfonso&layout=compact)
-
-<-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CristopherAfonso)](https://github.com/CristopherAfonso/github-readme-stats)
-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises)](https://github.com/CristopherAfonso/github-readme-stats)
 
