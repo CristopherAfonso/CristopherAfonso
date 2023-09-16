@@ -5,7 +5,7 @@ I like data science and cybersecurity, I want to specialize in cybersecurity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherAfonso&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherAfonso&langs_count=20&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherAfonso&langs_count=20&layout=compact&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises)](https://github.com/CristopherAfonso/github-readme-stats)
 
