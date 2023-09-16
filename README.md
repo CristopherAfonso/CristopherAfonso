@@ -11,7 +11,7 @@ I like data science and cybersecurity, I want to specialize in cybersecurity
 
 <- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CristopherAfonso)](https://github.com/CristopherAfonso/github-readme-stats) ->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=github-readme-stats)](https://github.com/CristopherAfonso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises)](https://github.com/CristopherAfonso/github-readme-stats)
 
 
 
