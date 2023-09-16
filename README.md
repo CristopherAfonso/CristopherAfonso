@@ -7,7 +7,7 @@ I like data science and cybersecurity, I want to specialize in cybersecurity
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=FirstOfComputerEngineering&theme=gotham)](https://github.com/CristopherAfonso/FirstOfComputerEngineering) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=SecondOfComputerEngineering&theme=maroongold)](https://github.com/CristopherAfonso/SecondOfComputerEngineering)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ThirdOfComputerEngineering&theme=outrun)](https://github.com/CristopherAfonso/ThirdOfComputerEngineering) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises&theme=codeSTRACKr)](https://github.com/CristopherAfonso/ExercismExercises)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ThirdOfComputerEngineering&theme=react)](https://github.com/CristopherAfonso/ThirdOfComputerEngineering) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises&theme=codeSTRACKr)](https://github.com/CristopherAfonso/ExercismExercises)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CristopherAfonso&repo=ExercismExercises&theme=great-gatsby)](https://github.com/CristopherAfonso/ExercismExercises)
 
